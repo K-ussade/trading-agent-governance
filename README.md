@@ -13,7 +13,7 @@ The repository shows how an operator can document and supervise automated tradin
 | Field | Value |
 | --- | --- |
 | Status | Scaffolded / published |
-| Steward | Alexandra Caussade public technical identity |
+| Steward | K-ussade public technical brand/account surface, stewarded by Alexandra Caussade |
 | Repository type | Public governance documentation kit |
 | Runtime status | Documentation-only; no bot, no agent runtime, no execution system |
 | Canonical source | GitHub public repository after publication |

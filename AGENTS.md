@@ -10,7 +10,7 @@ It is not a trading bot, trading system, financial advice repository, investment
 
 ## Authority
 
-- Alexandra Caussade stewards this public technical proof surface.
+- Alexandra Caussade stewards this repository through the K-ussade public technical brand/account surface.
 - Human review remains upstream of governance decisions, publication, claims, escalation, financial-language review, and any private operational handling.
 - Codex may draft public-safe governance documentation, templates, synthetic examples, Mermaid diagrams, and validation checks.
 - Codex is not financial authority, investment authority, legal authority, compliance authority, security authority, operations authority, or publication authority.
